@@ -1,0 +1,2 @@
+This is the content that will be written to the file WriteToFile.txt upon creation.
+Notice the 'w' parameter within the open() function. This this will write to a file and additionally overwrite existing data..

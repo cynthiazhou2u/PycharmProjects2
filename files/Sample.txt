@@ -1,0 +1,9 @@
+######################## START OF FILE #########################################
+
+This is a sample text tile that will be accessed by Python.
+
+We will access the text within this file and print it to the console line by line.
+
+This is the end of the file.
+
+######################## END OF FILE ###########################################

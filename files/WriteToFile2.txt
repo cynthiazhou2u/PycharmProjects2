@@ -1,0 +1,7 @@
+Notice the 'a' parameter within the open() signifies that this text will be appended to the file and not overwrite the existing data. running this multiple times will add this text block again to the  WriteToFile2.txt.
+Notice the 'a' parameter within the open() signifies that this text will be appended to the file and not overwrite the existing data. running this multiple times will add this text block again to the  WriteToFile2.txt.
+Notice the 'a' parameter within the open() signifies that this text will be appended to the file and not overwrite the existing data. running this multiple times will add this text block again to the  WriteToFile2.txt.
+Notice the 'a' parameter within the open() signifies that this text will be appended to the file and not overwrite the existing data. running this multiple times will add this text block again to the  WriteToFile2.txt.
+Notice the 'a' parameter within the open() signifies that this text will be appended to the file and not overwrite the existing data. running this multiple times will add this text block again to the  WriteToFile2.txt.
+Notice the 'a' parameter within the open() signifies that this text will be appended to the file and not overwrite the existing data. running this multiple times will add this text block again to the  WriteToFile2.txt.
+Notice the 'a' parameter within the open() signifies that this text will be appended to the file and not overwrite the existing data. running this multiple times will add this text block again to the  WriteToFile2.txt.

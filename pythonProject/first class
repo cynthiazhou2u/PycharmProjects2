@@ -1,0 +1,73 @@
+print('Hello, world')
+# display string I love halloween ...
+print('I love halloween','on',31,"October",'?')
+
+#let us print today's year
+today_year=2022
+print(today_year)
+print('2022')
+
+print('Today\'s year is'+str(2022))  #
+print ("Today's year is", 2022)
+
+ab=47.9
+n=8899
+s="okok now what"
+yes=True
+print(ab,'data type is ',type(ab))
+print(n,'data type is:',type(n))
+print (s,'data type is:',type(s))
+print(yes, 'data type is:',type(yes))
+
+num=12
+num=num+1
+print(num)
+num=float(+1)
+print(num)
+num+=3
+print(num)
+print(num+2)
+
+first_name,last_name = "tom",'cruise'
+print(first_name,last_name)
+num1=num2=num3=60
+print(num1,num2,num3)
+poetry='there is one sad truth too sad'
+
+print(poetry,'-number of characters:',len(poetry)) # chars include spaces
+print(poetry.capitalize())   #capilize only first char
+print(poetry.upper())     #capitalize every char
+print(poetry.lower())
+print(poetry.isalpha())         #space is not alpha, to validate input values
+print(poetry.isdigit())
+print(poetry.count('sad'))
+
+word1='HappyHalloween'.lower().title().upper().split()  #split() is not working cos there is no space to split words
+print(word1)
+word2='Happy Halloween'.lower().title().split()
+print(word2)
+
+#type casting
+fl=7.8
+print(fl,type(fl))
+i=int(fl)
+j=round(fl)
+print(i,type(i), j, type(j))
+
+word='9'
+print(word,type(word))
+num=int(word)
+print(num,type(num))
+num1=float(num)
+print(num1,type(num1))
+word1=str(num1)
+print(word1,type(word1))
+
+college='cctb'
+num_of_students=15
+duration_of_class=300
+is_in_session=True
+print(f'College name {college}')           #f starts formating
+print(f'duration of our course is {duration_of_class} days')
+print(f'is the class in session? {is_in_session}')
+
